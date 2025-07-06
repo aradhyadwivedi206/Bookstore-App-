@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Bookstore-App-
+A basic bookstore web application built using React and Firebase, allowing users to sign up, sign in, add book details, place orders, and view their order history. The app uses Firebase for authentication and real-time database functionality.
+
+## Features
+- User authentication (sign up and sign in) with Firebase Authentication
+- Add book details (title, author, etc.)
+- Place orders for books
+- View order history
+- Responsive and clean UI built with React
+
+## Tech Stack
+- React
+- Firebase Authentication
+- Firebase Firestore (real-time database)
+>>>>>>> b1ce5ca68f28d5bc7f6c23ab5ac1ba86794afa1e
